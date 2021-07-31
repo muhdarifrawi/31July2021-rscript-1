@@ -1,0 +1,1 @@
+data <- c("Apple","Banana","Chestnut")
